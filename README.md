@@ -1,6 +1,6 @@
 # twojparapet
 
-##general info
+## general info
 
 student php project for management of own collection of plants and share it with community
 
