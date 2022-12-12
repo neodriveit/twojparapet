@@ -5,12 +5,16 @@
 student php project for management of own collection of plants and share it with community
 
 
-##technologies
+## technologies
 
 php, mysql, html, css
 
+## documentation
 
-##install
+polish version attached
+
+
+## install
 
 put all the files on the server, or emulator as xampp
 
